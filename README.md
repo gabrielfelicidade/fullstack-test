@@ -1,5 +1,19 @@
 # Fullstack Test
 
+## How to run the projects
+
+### Back End
+
+1. Open a terminal on the backend directory inside this folder
+1. Run the command `./gradlew bootRun` for Unix or `gradlew bootRun` for Windows
+
+### Front End
+
+1. Open a terminal on the frontend directory inside this folder
+1. Run the command `npm start`
+
+The front end can be accessed by the following url: `http://localhost:3000`
+
 ## Context
 
 Gobots wants to create a new service to suggest music to its users. The suggestions will depend on the city and the climate where the user is.

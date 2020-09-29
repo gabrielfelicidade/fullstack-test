@@ -1,0 +1,4 @@
+rootProject.name = 'fullstack-test'
+include 'core'
+include 'entrypoint'
+

@@ -1,0 +1,13 @@
+app:
+  credentials:
+    openweather:
+      api-key: 5ab32a2ea645e0ccd1aa1d92637a1494
+    spotify:
+      id: 01a62f3abc584813b8e615ab81bc69d8
+      secret: ccefd95f36ea4a02a9b942fbaea32843
+  integrations:
+    openweather:
+      current: https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&units=metric
+    spotify:
+      auth: https://accounts.spotify.com/api/token
+      search: https://api.spotify.com/v1/search?q=%s&type=playlist
