@@ -10,6 +10,7 @@
 ### Front End
 
 1. Open a terminal on the frontend directory inside this folder
+1. Run the command `npm install`
 1. Run the command `npm start`
 
 The front end can be accessed by the following url: `http://localhost:3000`
